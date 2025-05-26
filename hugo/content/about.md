@@ -1,0 +1,16 @@
++++
+title = 'About'
+date = 2023-11-15T13:33:40Z
++++
+
+We are a collective that has decades of hands-on experience in delivering working projects.
+
+
+### Phillip Henry
+Phillip received his BSc in physics from Imperial College and then spent the next 30 years consulting for the likes of Goldman Sachs and Vodafone.
+
+
+### Mauro Talevi
+Mauro's PhD was in Monte Carlo simulations in Theoretical High Energy Physics. He graduated from the University of Rome in 1996.
+He has spent his time since delivering software projects for the likes of BNP Paribas and HSBC.
+He specialises in DevOps and test frameworks.
