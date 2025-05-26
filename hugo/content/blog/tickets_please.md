@@ -1,7 +1,6 @@
 +++
 title = 'Tickets, please'
 date = 2023-11-24T14:03:36Z
-draft = true
 description = "Document your Machine Learning models for free!"
 +++
 
@@ -9,9 +8,9 @@ Change is part of life whether we like it or not.  Everybody reacts to it differ
 
 It's the same in the world of development. Some want everything in its right place before work begins. Others accept flexibility.
 
-For most machine learning projects, change comes with the territory. Often, what may appear to be a straightforward piece of work actually turns out to be quite tricky and goal posts subtly shift during development.
+For most software projects, change comes with the territory. Often, what may appear to be a straightforward piece of work actually turns out to be quite tricky and goalposts subtly shift during development.
 
-The reason for this is often the data. Few people know it intimately before work begins, at least as far as the new requirements are concerned. And ask any data scientist what s/he thinks of the quality of their data (seriously, try it!). They’ll generally tell you it sucks.
+The reason for this is often the data. Few people know it intimately before work begins, at least as far as the new requirements are concerned. And ask any data engineer what s/he thinks of the quality of their data (seriously, try it!). They’ll generally tell you it sucks.
 
 As a result, there will be a back-and-forth with the business over what is to be done, what assumptions are acceptable and what consequences there may or may not be for the final product.
 
@@ -27,13 +26,13 @@ If your ticket system has these two properties then you can get:
 
 ## Automatic documentation!
 
-There’s a nice little trick you can do to link the code to the requirements. If the data scientists have a standard naming convention for the branches on which they work, their code can automagically be linked to the requirements. Free. No extra documentation needed.
+There’s a nice little trick you can do to link the code to the requirements. If the devs have a standard naming convention for the branches on which they work, their code can automagically be linked to the requirements. Free. No extra documentation needed.
 
-Let’s take an example. Here is some code that was written years ago. Note that every line of code is associated with a ticket number via source control (Git, in our case). Your favourite development environment will generally show this as we can see below. Here we’re using the data scientist’s favourite: PyCharm:
+Let’s take an example. Here is some code that was written years ago. Note that every line of code is associated with a ticket number via source control (Git, in our case). Your favourite development environment will generally show this as we can see below. Here we’re using PyCharm:
 
 ![Note the naming convention of the branch](/img/blog/ticket_code.png)
 
-The best thing is that you can tell your code editor to link this code with the ticket with just one click. If future data scientists scratch their head over why you took certain decisions in the machine learning pipeline, they need only click that link and behold!
+The best thing is that you can tell your code editor to link this code with the ticket with just one click. If future devs scratch their head over why you took certain decisions, they need only click that link and behold!
 
 ![Click that link!](/img/blog/ticket_open.png)
 
