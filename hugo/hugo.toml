@@ -1,0 +1,113 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Accelerate Delivery'
+theme = 'spectral'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true	
+
+[[params.menu.main]]
+url = '/'
+title = "Home"
+
+[[params.menu.main]]
+url = '/blog/'
+title = "Posts"
+
+[[params.menu.main]]
+url = '/cases/'
+title = "Case Studies"
+
+[[params.menu.main]]
+url = '/news/'
+title = "News"
+
+[[params.menu.main]]
+url = '/about/'
+title = "About"
+
+[[params.menu.main]]
+url = '/faq/'
+title = "FAQ"
+
+[[params.menu.main]]
+url = '/contact/'
+title = "Contact"
+
+
+[params]
+fancyTitle = "Accelerate Your Business" # title for frontpage, may include image
+description = 'Success in Software'
+body_is_markdown = true
+
+[params.one]
+enable = true
+title = '''
+"17 percent of IT projects go so bad that they can threaten the very existence of the company.
+'''
+body = '''
+"IT projects run 45 percent over budget 
+<br/>
+and 7 percent over time 
+<br/>
+while delivering 56 percent less value than predicted."
+
+[McKinsey](https://www.mckinsey.com/~/media/McKinsey/dotcom/client_service/Corporate%20Finance/MoF/PDF%20issues/PDFs%20Issue%2045/Final/MoF45_LargeScaleIT.ashx)
+'''
+
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "img/clockwork.jpg"
+img_alt = "runs like clockwork"
+title = "Who we are"
+body = '''
+We are industry experts each with 30 years of experience in the industry.
+
+We have worked from start ups to investment banks.
+
+We know what works and we know what does not.
+'''
+body_is_markdown = true
+
+[[params.two.section]]
+img = "img/coffee_mac.jpg"
+img_alt = "Coffee?"
+title = "Why us"
+body = '''
+We are entirely independent and not affiliated with any major organisation.
+
+We do not have an army of fresh grads to sell you - just the guidance of industry veterans.
+'''
+body_is_markdown = true
+
+[params.three]
+enable = true
+title = 'What we do'
+body = '''
+'''
+
+[[params.three.feature]]
+icon = "solid fa-code"
+title = "Baseline Assessment"
+body = "Conduct a 2-week audit of current practices and bottlenecks."
+
+[[params.three.feature]]
+icon = "solid fa-laptop"
+title = "Pilot Implementation"
+body = "Select 1–2 teams to apply our techniques. We test and observe the results."
+
+[[params.three.feature]]
+icon = "fa-flag"
+title = "Metrics & Feedback Loops"
+body = "Track DORA metrics, delivery lead time, and defect rates."
+
+[[params.three.feature]]
+icon = "fa-heart"
+title = "Scale"
+body = "Roll out tooling, training, and cultural support org-wide. Leave a culture of constant improvement."
+
