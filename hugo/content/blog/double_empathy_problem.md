@@ -1,5 +1,5 @@
 +++
-title = 'Mind the (Communicateion) Gap'
+title = 'Mind the (Communication) Gap'
 date = 2025-05-29T15:55:04+01:00
 draft = true
 +++
@@ -22,8 +22,8 @@ I don't blame you. I would.
 But the double empathy problem is about *mutual* misunderstanding. 
 Neurodivergence can operate at all levels of an organisation.
 
-Interestingly, this challenged decades of accepted wisdom that framed empathy difficulties as common amongst autists.
-(Fun fact: a lot of this acceepted wisdom was done by Simon Baron Cohen, cousin of comedian, Sacha).
+Interestingly, this challenged decades of accepted wisdom that framed empathy difficulties as common amongst autistic people.
+(Fun fact: a lot of this accepted wisdom was done by Simon Baron Cohen, cousin of comedian, Sacha).
 
 ![Neurodivergent!](/img/blog/ali_g_autistic.jpg)
 
