@@ -26,6 +26,7 @@ A South African colleague once pointed out to me that British managers love to t
 In the world of knowledge workers, the correct approach is the very opposite. The Googles of this world have small, focused teams of highly competent (and highly paid) engineers.
 
 I probably lost half the British audience by mentioning APIs in my first paragraph.
+But if you're still here and want to know more about how your technology can best be managed, [contact us](/contact/).
 
 <div style="text-align: center;">
   <img src="/img/blog/broken_factory.jpg" alt="Description" />
