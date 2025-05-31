@@ -1,7 +1,6 @@
 +++
 title = 'Frequently Asked Questions'
 date = 2023-11-27T14:16:58Z
-draft = true
 faq = true
 +++
 
