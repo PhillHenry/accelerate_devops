@@ -15,15 +15,15 @@ Now here's the kicker: nobody has the monopoly on common sense. Rather, it's jus
 The idea behind it is simple. If people don't generally understand neurodivergent individuals then other neurodivergents shouldn't either. Twice the divergence, right?  Except that *neurodivergent people tend to understand each other very well*.  
 
 Now, it's worth mentioning at this point that I've not said which side (engineers or managers) are neurodivergent. 
-You probably assumed I was inferring the engineers were the neurodivergent group. 
+You probably assumed I was inferring it was the engineers. 
 I don't blame you. I would.
 
 
 But the double empathy problem is about *mutual* misunderstanding. 
 Neurodivergence can operate at all levels of an organisation.
 
-Interestingly, this challenged decades of accepted wisdom that framed empathy difficulties as common amongst autistic people.
-(Fun fact: a lot of this accepted wisdom was done by Simon Baron Cohen, cousin of comedian, Sacha).
+Interestingly, the double empathy problem challenged decades of accepted wisdom that framed empathy difficulties as common amongst autistic people.
+(Fun fact: a lot of this accepted wisdom was established by Simon Baron Cohen, cousin of comedian, Sacha).
 
 ![Neurodivergent!](/img/blog/ali_g_autistic.jpg)
 
