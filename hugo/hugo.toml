@@ -78,6 +78,8 @@ body = '''
 We are entirely independent and not affiliated with any major organisation.
 
 We offer expert software auditing services and impartial advice.
+
+If your project is struggling, contact us. We're happy to chat.
 '''
 body_is_markdown = true
 
