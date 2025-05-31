@@ -21,10 +21,6 @@ url = '/cases/'
 title = "Case Studies"
 
 [[params.menu.main]]
-url = '/news/'
-title = "News"
-
-[[params.menu.main]]
 url = '/about/'
 title = "About"
 
