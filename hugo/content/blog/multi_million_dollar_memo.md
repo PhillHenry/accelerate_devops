@@ -1,6 +1,6 @@
 +++
 title = 'The Multi-Billion Dollar Memo'
-date = 2025-05-31T13:50:35+01:00
+date = 2025-04-30T13:50:35+01:00
 +++
 
 The billionaire CEO, Jeff Bezos, sent a [memo](https://github.com/victorvalentee/bezos_api_mandate) in 2002 to all of Amazon telling them how they were going to architect AWS. 

@@ -1,6 +1,6 @@
 +++
 title = 'Mind the (Communication) Gap'
-date = 2025-05-29T15:55:04+01:00
+date = 2024-05-29T15:55:04+01:00
 +++
 
 It's a story as old as software itself.
