@@ -1,10 +1,9 @@
 +++
 title = 'The Multi-Million Dollar Memo'
 date = 2025-05-31T13:50:35+01:00
-draft = true
 +++
 
-Around 2002, the billionaire CEO, Jeff Bezos, sent a [memo](https://github.com/victorvalentee/bezos_api_mandate) to all of Amazon telling them how they were going to architect AWS. 
+The billionaire CEO, Jeff Bezos, sent a [memo](https://github.com/victorvalentee/bezos_api_mandate) in 2002 to all of Amazon telling them how they were going to architect AWS. 
 His vision was Abstract Programming Interfaces - or  APIs as engineers call them.
 Anybody who did not obey would be cheerfully fired.
 This brilliant idea would lead Amazon to dominate the cloud space. 
@@ -25,6 +24,8 @@ Some might say this disdain continues in the British managerial class.
 A South African colleague once pointed out to me that British managers love to tackle problems by throwing large numbers of workers at it - a hang-over from the days of the Industrial Revolution when more factory workers meant more spoons were manufactured.
 
 In the world of knowledge workers, the correct approach is the very opposite. The Googles of this world have small, focused teams of highly competent (and highly paid) engineers.
+
+I probably lost half the British audience by mentioning APIs in my first paragraph.
 
 <div style="text-align: center;">
   <img src="/img/blog/broken_factory.jpg" alt="Description" />

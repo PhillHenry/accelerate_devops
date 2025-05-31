@@ -1,4 +1,4 @@
-baseURL = '.'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Accelerate Delivery'
 theme = 'spectral'
@@ -104,10 +104,10 @@ body = "Select 1–2 teams to apply our techniques. We test and observe the resu
 [[params.three.feature]]
 icon = "fa-flag"
 title = "Metrics & Feedback Loops"
-body = "Track DORA metrics, delivery lead time, and defect rates."
+body = "Track Google's software metrics for delivery lead time, and defect rates."
 
 [[params.three.feature]]
 icon = "fa-heart"
 title = "Scale"
-body = "Roll out tooling, training, and cultural support org-wide. Leave a culture of constant improvement."
+body = "Roll out tools, training, and cultural support org-wide. Leave a culture of constant improvement."
 
