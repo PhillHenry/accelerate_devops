@@ -23,7 +23,7 @@ But the double empathy problem is about *mutual* misunderstanding.
 Neurodivergence can operate at all levels of an organisation.
 
 Interestingly, the double empathy problem challenged decades of accepted wisdom that framed empathy difficulties as common amongst autistic people.
-(Fun fact: a lot of this accepted wisdom was established by Simon Baron Cohen, cousin of comedian, Sacha).
+(Fun fact: a lot of this accepted wisdom was established by Prof. Simon Baron Cohen, cousin of comedian Sacha).
 
 ![Neurodivergent!](/img/blog/ali_g_autistic.jpg)
 
