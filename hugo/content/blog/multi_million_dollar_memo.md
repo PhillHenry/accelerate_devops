@@ -24,7 +24,7 @@ Consequently, the Germans and Americans overtook Britain in GDP per capita some 
 Some might say this disdain continues in the British managerial class.
 A South African colleague once pointed out to me that British managers love to tackle problems by throwing large numbers of workers at it - a hang-over from the days of the Industrial Revolution when more factory workers meant more spoons were manufactured.
 
-In the world of knowledge workers, the correct approach is the very opposite. The Googles of this world have small, focussed teams of highly competent (and highly paid) engineers.
+In the world of knowledge workers, the correct approach is the very opposite. The Googles of this world have small, focused teams of highly competent (and highly paid) engineers.
 
 <div style="text-align: center;">
   <img src="/img/blog/broken_factory.jpg" alt="Description" />
