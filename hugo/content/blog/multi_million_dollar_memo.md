@@ -16,18 +16,18 @@ It's not something they view with barely disguised contempt.
 Bezos, after all, has a degree in electrical engineering.
 
 
-The British approach to technology reflects historical attitudes that emerged in the late 19th century during what historians call the "decline of the industrial spirit." 
-During this period, the heirs to early industrialists began to view direct involvement in factory operations as incompatible with their social status. 
-This shift in priorities contributed to Germany and the United States surpassing Britain in GDP per capita around the 1890s.
+The British approach to technology reflects historical attitudes that emerged in late Victorian times.
+The wealthy heirs of early industrialists began to view direct involvement in factory operations as "unbecoming of gentlemen".
+Consequently, Germany and the United States overtook Britain in GDP per capita in a period called the "decline of the industrial spirit." 
 
-This historical perspective appears to influence some aspects of British management culture today. 
-A South African colleague observed that British managers often approach problems by throwing more people at the problem - an approach that worked well during the Industrial Revolution when manufacturing output directly correlated with the size of a poorly paid workforce.
+This history appears to influence some aspects of British management culture today. 
+A South African colleague observed that British managers often tackle a problem by throwing more people at it - an approach that worked well during the Industrial Revolution when output depended on the number of poorly paid workers a factory had.
 
 In today's knowledge economy, the most effective approach often involves the opposite strategy. 
 Leading technology companies like Google have demonstrated success through small, focused teams of specialized engineers who command premium compensation for their expertise.
 
-We may have lost half our audience by mentioning APIs in my first paragraph.
-But for those interested in learning more about effective technology management strategies, we'd be happy to discuss [discuss](/contact/) how these principles might apply to your specific situation.
+We may have lost half our audience by mentioning APIs in our first paragraph.
+But for those interested in learning more about effective technology management, we'd be happy to [discuss](/contact/) how these principles might apply to you.
 
 <div style="text-align: center;">
   <img src="/img/blog/broken_factory.jpg" alt="Description" />

@@ -25,7 +25,7 @@ Interestingly, the double empathy problem challenged decades of accepted wisdom 
 (Fun fact: a lot of this accepted wisdom was established by Prof. Simon Baron Cohen, cousin of comedian Sacha).
 
 <div style="text-align: center;">
-  <img src="/img/blog/ali_g_autistic.jpg" alt="Neurodivergent" />
+  <img src="/img/blog/ali_g_neurodivergent.jpg" alt="Neurodivergent" />
 </div>
 
 
