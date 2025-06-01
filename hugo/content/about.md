@@ -3,7 +3,7 @@ title = 'About'
 date = 2023-11-15T13:33:40Z
 +++
 
-We are a collective that has decades of hands-on experience in delivering working projects.
+We are a collective that has decades of __hands-on__ experience in delivering working projects.
 
 ### Phillip Henry
 Phillip received his BSc in physics from Imperial College and then spent the next 30 years consulting for the likes of Goldman Sachs and Vodafone.
@@ -17,5 +17,5 @@ He is fluent in English, Italian and French.
 
 ### Andrew Birkett
 Andrew graduated from Leeds University in Business and Computer Science.  
-He has introduced Agile to many large companies from investment banks to telcos.
-He is fluet in English and German.
+He has introduced Agile to many large companies from investment banks to telcos and was a qualified Scrum Master before it was fasionable.
+He is fluent in English and German.
