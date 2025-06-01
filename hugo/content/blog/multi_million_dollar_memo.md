@@ -18,7 +18,7 @@ Bezos, after all, has a degree in electrical engineering.
 
 The British approach to technology reflects historical attitudes that emerged in late Victorian times.
 The wealthy heirs of early industrialists began to view direct involvement in factory operations as "unbecoming of gentlemen".
-Consequently, Germany and the United States overtook Britain in GDP per capita in a period called the "decline of the industrial spirit." 
+Consequently, German and American GDP per capita overtook Britain in a period called the "decline of the industrial spirit." 
 
 This history appears to influence some aspects of British management culture today. 
 A South African colleague observed that British managers often tackle a problem by throwing more people at it - an approach that worked well during the Industrial Revolution when output depended on the number of poorly paid workers a factory had.
