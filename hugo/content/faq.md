@@ -33,3 +33,13 @@ We will:
 {{% /faq-answer %}}
 {{% /faq-question %}}
 
+
+{{% faq-question %}}
+## I already have consultants on my project. Why do I need more? {itemprop=name}
+{{% faq-answer %}}
+It is essential to have external experts auditing the process. 
+Asking your current consultants to do this is asking them to mark their own homework.
+{{% /faq-answer %}}
+{{% /faq-question %}}
+
+
