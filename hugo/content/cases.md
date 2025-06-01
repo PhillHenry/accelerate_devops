@@ -1,6 +1,5 @@
 +++
 title = 'Case Studies'
-draft = true
 +++
 
 ## NHS/CF
