@@ -26,8 +26,8 @@ A South African colleague observed that British managers often tackle a problem 
 In today's knowledge economy, the most effective approach often involves the opposite strategy. 
 Leading technology companies like Google have demonstrated success through small, focused teams of specialized engineers who command premium compensation for their expertise.
 
-We may have lost half our audience by mentioning APIs in our first paragraph.
-But for those interested in learning more about effective technology management, we'd be happy to [discuss](/contact/) how these principles might apply to you.
+_We may have lost half our audience by mentioning APIs in our first paragraph.
+But for those interested in learning more about effective technology management, we'd be happy to [discuss](/contact/) how these principles might apply to you._
 
 <div style="text-align: center;">
   <img src="/img/blog/broken_factory.jpg" alt="Description" />
