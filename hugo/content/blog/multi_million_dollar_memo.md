@@ -22,6 +22,7 @@ This shift in priorities contributed to Germany and the United States surpassing
 
 This historical perspective appears to influence some aspects of British management culture today. 
 A South African colleague observed that British managers often approach problems by throwing more people at the problem - an approach that worked well during the Industrial Revolution when manufacturing output directly correlated with the size of a poorly paid workforce.
+
 In today's knowledge economy, the most effective approach often involves the opposite strategy. 
 Leading technology companies like Google have demonstrated success through small, focused teams of specialized engineers who command premium compensation for their expertise.
 
