@@ -8,25 +8,25 @@ His vision was Abstract Programming Interfaces - or  APIs as engineers call them
 Anybody who did not obey would be cheerfully fired.
 This brilliant idea would lead Amazon to dominate the cloud space. 
 
-As the joke goes, the CEO should spend 80% of time pleasing shareholder and the other 30% checking the numbers are correct.
+As the joke goes, the CEO should spend 80% of time pleasing shareholders and the other 30% checking the numbers are correct.
 So, how could Bezos have such technical insight? 
 
 The reason is that American tech CEOs understand technology. 
-It's not something icky that they detest dirtying their hands with.
+It's not something they view with barely disguised contempt.
 Bezos, after all, has a degree in electrical engineering.
 
-The British, however, still regard tech as something beneath them. 
-The rot started in the late 19th Century with what is commonly called the "decline of the industrial spirit".
-During this time, the heirs to the early industrialists regarded attending factory matters as something unbecoming of a gentleman.
-Consequently, the Germans and Americans overtook Britain in GDP per capita some time in the 1890s.
 
-Some might say this disdain continues in the British managerial class.
-A South African colleague once pointed out to me that British managers love to tackle problems by throwing large numbers of people at it - a hang-over from the days of the Industrial Revolution when more factory workers meant more spoons were manufactured.
+The British approach to technology reflects historical attitudes that emerged in the late 19th century during what historians call the "decline of the industrial spirit." 
+During this period, the heirs to early industrialists began to view direct involvement in factory operations as incompatible with their social status. 
+This shift in priorities contributed to Germany and the United States surpassing Britain in GDP per capita around the 1890s.
 
-In the world of knowledge workers, the correct approach is the very opposite. The Googles of this world have small, focused teams of highly competent (and highly paid) engineers.
+This historical perspective appears to influence some aspects of British management culture today. 
+A South African colleague observed that British managers often approach problems by throwing more people at the problem - an approach that worked well during the Industrial Revolution when manufacturing output directly correlated with the size of a poorly paid workforce.
+In today's knowledge economy, the most effective approach often involves the opposite strategy. 
+Leading technology companies like Google have demonstrated success through small, focused teams of specialized engineers who command premium compensation for their expertise.
 
-I probably lost half the British audience by mentioning APIs in my first paragraph.
-But if you're still here and want to know more about how your technology can best be managed, [contact us](/contact/).
+We may have lost half our audience by mentioning APIs in my first paragraph.
+But for those interested in learning more about effective technology management strategies, we'd be happy to discuss [discuss](/contact/) how these principles might apply to your specific situation.
 
 <div style="text-align: center;">
   <img src="/img/blog/broken_factory.jpg" alt="Description" />
