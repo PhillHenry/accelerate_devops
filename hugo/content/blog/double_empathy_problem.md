@@ -17,16 +17,15 @@ Now, it's worth mentioning at this point that I've not said which side (engineer
 You probably assumed I was inferring it was the engineers. 
 I don't blame you. I would.
 
-
 But the double empathy problem is about *mutual* misunderstanding. 
 Neurodivergence can operate at all levels of an organisation.
 
-Interestingly, the double empathy problem challenged decades of accepted wisdom that framed empathy difficulties as common amongst autistic people.
+Interestingly, the double empathy problem challenged decades of accepted wisdom that framed difficulties with empathy as common amongst autistic people.
 (Fun fact: a lot of this accepted wisdom was established by Prof. Simon Baron Cohen, cousin of comedian Sacha).
 
 <div style="text-align: center;">
   <img src="/img/blog/ali_g_neurodivergent.jpg" alt="Neurodivergent" />
 </div>
 
-
-So, next time you find yourself arguing with somebody on the other side, take a deep breath, pause and think about things from their point of view.
+So, next time you find yourself arguing with somebody on the other side, take a deep breath, pause and think about things from their point of view. 
+They're (probably) not being awkward on purpose.
