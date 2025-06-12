@@ -4,7 +4,7 @@ date = 2025-04-30T13:50:35+01:00
 +++
 
 The billionaire CEO, Jeff Bezos, sent a [memo](https://github.com/victorvalentee/bezos_api_mandate) in 2002 to all of Amazon telling them how they were going to architect AWS. 
-His vision was Abstract Programming Interfaces - or  APIs as engineers call them.
+His vision was Application Programming Interfaces - or  APIs as engineers call them.
 Anybody who did not obey would be cheerfully fired.
 This brilliant idea would lead Amazon to dominate the cloud space. 
 
