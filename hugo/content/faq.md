@@ -16,9 +16,12 @@ We ensure your processes are correct.
 {{% faq-question %}}
 ## Isn't that what all consultancies say? {itemprop=name}
 {{% faq-answer %}}
-Yes, but while the others try to place fresh graduates and bill them as experts, we guarantee that nobody you deal with has less than 20 years of hands-on experience. Such people are hard to come by so you know we're not going to fill your ranks with an army of expensive juniors.
+Yes, but while the others try to place fresh graduates and bill them as experts, we guarantee that nobody you deal with has less than 20 years of hands-on experience. 
+Such people are hard to come by so you know we're not going to fill your ranks with an army of expensive juniors.
 
-Also, we don't have affiliations with other organisations. We're not going to surreptitiously sell you services and products where we get a commission. Yes, the other consultancies do this without telling you (ever wondered why that solution you bought wasn't such a good fit after all?).
+Also, we don't have affiliations with other organisations. 
+We're not going to surreptitiously sell you services and products where we get a commission. 
+Unfortunately, this is common practise in the industry.
 {{% /faq-answer %}}
 {{% /faq-question %}}
 
@@ -28,7 +31,7 @@ Also, we don't have affiliations with other organisations. We're not going to su
 We will:
 1. conduct a 2-week audit.
 2. select a team or two for whom we apply our techniques
-3. observer their progress using industry standard metrics
+3. observe their progress using standard industry metrics
 4. if you like what you see (you will) then roll it out to the rest of the business.
 {{% /faq-answer %}}
 {{% /faq-question %}}
