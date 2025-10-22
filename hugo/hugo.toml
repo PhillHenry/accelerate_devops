@@ -13,6 +13,10 @@ url = '/'
 title = "Home"
 
 [[params.menu.main]]
+url = '/services/'
+title = "Services"
+
+[[params.menu.main]]
 url = '/blog/'
 title = "Posts"
 
