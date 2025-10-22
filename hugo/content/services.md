@@ -1,7 +1,6 @@
 +++
 title = 'Services'
 date = 2025-10-22T14:49:43+01:00
-draft = true
 +++
 
 We offer a variety of services that can be tailored to your needs.
