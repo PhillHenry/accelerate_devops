@@ -5,3 +5,5 @@ draft = true
 +++
 
 Developers are also the ops guys
+
+Emotional safety
