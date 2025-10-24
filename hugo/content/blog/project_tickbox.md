@@ -3,92 +3,91 @@ title = '11 properties of highly effective projects'
 date = 2025-10-22T14:38:10+01:00
 +++
 
+**What Successful IT Projects Have in Common**
 
-Technology rarely makes or breaks projects; people and processes do.
-Context matters but a successful project should have the following:
+Technology rarely sinks a project - people and processes do. 
+Most IT failures can be traced not to flawed tools or frameworks, but to mismatched roles, poor communication, and missing feedback loops. 
+Context always matters, but most successful projects share some universal traits.
 
-### People
+---
 
-The important thing to remember is that IT projects rarely flounder because of the technology.
-The problem is generally the wrong people in the wrong positions.
+### **People**
 
-1. __Hire good developers__
+#### **Hire Great Developers**
+This one’s obvious but still surprisingly rare. Why? Because hiring managers often don’t know what a good developer looks like - and good developers are expensive.
 
-This is a really important one so why is it relatively rare? 
-Well, partly because hiring managers generally don't know what a good developer looks like and partly because good developers are expensive.
+The best way around this is to have your strongest developers lead the hiring process. Skilled engineers can recognize other skilled engineers. 
+And while great developers may cost more, hiring fewer but better ones reduces communication overhead - a major drag on productivity. Google has shown that smaller, stronger teams almost always move faster.
 
-Good developers can generally spot each other so have your best devs lead the interview process.
+#### **Eat Your Own Dog Food**
+If the people building the product aren’t the ones maintaining it, you can bet maintenance won’t be the top priority.
+It’s human nature to prioritize getting something out the door when you don’t have to live with its quirks later. 
+This was a major pitfall of early-2000s outsourcing. 
+These days, staff are generally embedded in the development team if work is outsourced to a third party. 
 
-Good devs also tend to be expensive so our advice is to hire __fewer but better__ developers.
-You'll also reduce communication overhead which is a huge productivity killer.
+#### **Define Quality Requirements Clearly**
+Every work ticket should:
+- Be reviewed and approved by the people implementing it  
+- Contain accurate and complete information  
+- Include acceptance criteria that define what “done” really means  
 
-2. __Eat your own dog food__
+Negotiating ticket details is part of the process. That negotiation works best when the team feels psychologically safe - free to question assumptions and push back when something doesn’t make sense.
 
-If the people building the product are not the people maintaining it, guess what? 
-They'll build a product where maintenance is not the most important property and instead prioritise getting a product out the door.
-That's just human nature. 
-This was rampant in the outsourcing craze of the early 2000s. 
-These days, staff are generally __embedded__ in the development team if work is outsourced to a third party. 
+#### **Build Emotional Safety**
+Steve Jobs once said, *“It doesn’t make sense to hire smart people and then tell them what to do. We hire smart people so they can tell us what to do.”*  
 
+If you want smart people to speak up, leadership needs to listen - regularly. 
+One-off away days won’t cut it. 
+Daily stakeholder engagement is key. 
+Agile practices like retrospectives and sprint planning formalize this, but the underlying principle is simple: communication should be continuous, not occasional.
 
-3. __Quality requirements__ 
+#### **Say No to Silos**
+“Scrum Master” is a role, not a job title. “DevOps” is a mindset, not a separate team.  
 
-Work tickets need:
-- to be first approved by the people implementing them
-- to be as accurate as possible
-- to have acceptance criteria that define what 'done' means.
+The more you silo responsibilities, the more corner cases slip through the cracks. Keep communication lines open and responsibilities shared.
 
-There's often horse trading between the implementers and the business when agreeing on what exactly a ticket includes. 
-So, in this most human of tech processes, emotional safety is key.
+#### **Maintain Regular Feedback Loops**
+Show-and-tells, burndown charts, retrospectives - these aren’t just Agile rituals; 
+they’re tools for alignment. 
+When communication works, no one should ever be surprised by project timelines or deliverables.
 
-4. __Emotional safety__
+#### **Encourage Autonomy**
+A conductor doesn’t tell the lead violinist *how* to play - only *what* to play. 
+The same goes for software teams. Give teams clear goals, then trust them to decide how best to achieve them.
 
-Steve Jobs once [said](https://www.goodreads.com/quotes/8586131-it-doesn-t-make-sense-to-hire-smart-people-and-then):  "It doesn't make sense to hire smart people and then tell them what to do. We hire smart people so they can tell us what to do."
+---
 
-Upper management need to listen to the troops.
-It takes more than one-off away days to facilitate this. 
-Instead there must be regular stakeholder involvement, preferably daily. 
-A lot of __Agile practices__ advocate this so if you're not employing at least some of these principles (retrospective, sprint planning etc), you really should.
+### **Process**
 
-5. __Say 'no' to silos__
+#### **Automate Regression Testing**
+Continuous integration is now standard in open source, but surprisingly still spotty in some industries. 
+Automated regression tests are the best defense against code rot and unintended side effects. 
+They keep your codebase resilient as it evolves.
 
-'Scrum master' is a role not a job.
+#### **Log Everything**
+Good logging is essential for effective maintenance. 
+It’s also the first thing neglected when developers don’t maintain their own code - another reason to “eat your own dog food.” 
+Comprehensive logs turn debugging from guesswork into diagnosis.
 
-'DevOps' is a discipline not a team.
+#### **Fail Fast**
+Don’t overanalyze when a quick prototype will do. 
+Often, it takes less time to try something than to debate it in meetings. 
+If it fails, you’ve learned something valuable. 
+Agile calls this a “spike” - a short, focused experiment to validate an idea.
 
-The more you silo people, the more corner cases will slip through the cracks. 
+#### **Keep Documentation Alive**
+Documentation has a tendency to drift out of sync with reality. 
+Developers rarely have time to update it, and professional documenters rarely have deep technical insight. 
+One solution: let your test suite generate documentation. 
+Behaviour-Driven Development (BDD) tools can keep code and documentation in lockstep, automatically reflecting the current state of the system.
 
-6. __Regular back-and-forth__
+---
 
-Show-and-tells, burn down charts, retrospectives - these are all ways to ensure people are aligned. There should never be any surprises in the timelines if __communication__ is done properly.
+### **Final Thoughts**
 
-7. __Autonomy__
+Every successful project balances people, process, and technology - but the first two matter most. 
+Hire fewer, smarter developers. 
+Give them autonomy, safety, and accountability. Back them up with automation, communication, and feedback loops.  
 
-Obviously, there needs to be some orchestration but a conductor tells his lead violinist *what* to play not *how* to play it.
-Give teams their requirements but let them decide how to implement them.
+The tools will change. The principles won’t.
 
-### Process
-
-1. __Automated regression tests__
-
-You'll be hard pressed to find an open source project without __continuous integration__ but I still see some in industry.
-Regression tests are the single best way to ensure a code base is resilient.
-
-2. __Logging__
-
-Good logging is the key to effective maintenance.
-It's also the first thing to be neglected if the devs are not the maintainers (see "Eat your own dog food").
-
-3. __Fail fast__
-
-Don't be scared to experiment. It often takes less time to try something than to have a series of meetings about it. If it fails, great, you learned something. In Agile methodologies, this is called a __spike__.  
-
-4. __Documentation__
-
-It's rare in a busy organisation for somebody to go back to tech documentation and update it.
-You just have to accept that in most cases, devs don't have the time and professional documenters rarely have the low level insight.
-However, documentation can be generated by the test suite (see above).
-If you want to know more, search for __Behaviour Driven Development__ and see how many free tools keep both code and docs in lock-step.
-
-
-This is not an exhaustive list and we're happy to hear others' points of view. But as a minimum, projects should have the above.
