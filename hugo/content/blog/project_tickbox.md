@@ -1,24 +1,30 @@
 +++
-title = 'What every software project needs'
+title = '10 properties of highly effective projects'
 date = 2025-10-22T14:38:10+01:00
 +++
 
 
-This is not an exaustive list but as a bare minimum you need the following:
+Conext matters but a successful project should have the following (not that this is not an exhaustive list):
 
 ### People
+
+The important thing to remember is that IT projects rarely flounder because of the technology.
+The problem is generally the wrong people in the wrong positions.
 
 1. __Hire good developers__
 
 This is a really important one so why is it relatively rare? 
 Well, partly because hiring managers generally don't know what a good developer looks like and partly because good developers are expensive.
-Our advice is to hire __fewer but better__ developers.
+
+Good developers can generally spot each other so have your best devs lead the interview process.
+
+Good devs also tend to be expensive so our advice is to hire __fewer but better__ developers.
 You'll also reduce communication overhead which is a huge productivity killer.
 
 2. __Eat your own dog food__
 
 If the people building the product are not the people maintaining it, guess what? 
-They'll build a product where maintenance is not the most important property and instead prioritise getting a product out of the door.
+They'll build a product where maintenance is not the most important property and instead prioritise getting a product out the door.
 That's just human nature. 
 This was rampant in the outsourcing craze of the early 2000s. 
 These days, staff are generally __embedded__ in the development team if work is outsourced to a third party. 
@@ -36,17 +42,16 @@ So, in this most human of tech processes, emotional safety is key.
 
 4. __Emotional safety__
 
-Steve Jobs famously [said](https://www.goodreads.com/quotes/8586131-it-doesn-t-make-sense-to-hire-smart-people-and-then):  "It doesn't make sense to hire smart people and then tell them what to do. We hire smart people so they can tell us what to do."
+Steve Jobs once [said](https://www.goodreads.com/quotes/8586131-it-doesn-t-make-sense-to-hire-smart-people-and-then):  "It doesn't make sense to hire smart people and then tell them what to do. We hire smart people so they can tell us what to do."
 
-Jobs was famously abusive but that doesn't mean he was wrong here. 
 Upper management need to listen to the troops.
 It takes more than one-off away days to facilitate this. 
 Instead there must be regular stakeholder involvement, preferably daily. 
-A lot of __Agile practices__ advocate this so if you're not employing at least some of these principals, you should.
+A lot of __Agile practices__ advocate this so if you're not employing at least some of these principals (retrospective, sprint planning etc), you really should.
 
 5. __Say 'no' to silos__
 
-'Scrum manager' is a role not a job.
+'Scrum master' is a role not a job.
 
 'DevOps' is a discipline not a team.
 
@@ -56,29 +61,26 @@ The more you silo people, the more corner cases will slip through the cracks.
 
 Show-and-tells, burn down charts, retrospectives - these are all ways to ensure people are aligned. There should never be any surprises in the timelines if __communication__ is done properly.
 
-This applies to all levels in the organisation, not just devs. For instance, HSBC has even project managers reporting the C-level execs every two weeks giving their RAG score (red, amber or green). Projects are allowed to make only one move per iteration. The ire of the board will be invoked if a project *suddenly* goes from green to red.
-
-The unfortunate corollary to this, of course, is that most projects stay at amber. But at least there is no smoke being blown up the management chain when people try to disguise a struggling project.
 
 ### Process
 
 1. __Automated regression tests__
 
 You'll be hard pressed to find an open source project without __continuous integration__ but I still see some in industry.
-
+Regression tests are the single best way to ensure a code base is resilient.
 
 2. __Logging__
 
-Good logging is the key to effective maintence.
+Good logging is the key to effective maintenance.
 It's also the first thing to be neglected if the devs are not the maintainers (see "Eat your own dog food").
 
-In the last decade or so, everything has become distributed so logs that live in multiple places need to be aggregated. 
-There are some tools to do this (I've heard good things about DataDog although I've never used it). 
-But the main thing is that you need people who's expertise spans different systems.
+3. __Fail fast__
+
+Don't be scared to experiment. It often takes less time to try somthing than to have a series of meetings about it. If it fails, great, you learned something. In Agile methodologies, this is called a spike.  
 
 4. __Documentation__
 
-Nobody goes back to tech documentation and updates it in a busy organisation.
-You just have to accept that devs don't have the time and professional documenters rarely have the low level insight.
+It's rare in a busy organisation for somebody goes back to tech documentation and updates it.
+You just have to accept that in most cases, devs don't have the time and professional documenters rarely have the low level insight.
 However, documentation can be generated by the test suite (see above).
-That way, both code and docs are in lock-step.
+If you want to know more, search for __Behaviour Driven Development__ and see how many free tools keep both code and docs in lock-step.
