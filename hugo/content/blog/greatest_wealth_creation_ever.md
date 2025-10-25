@@ -18,6 +18,8 @@ Larry Ellison (Oracle): Physica and Mathematics
 <br/>
 Bill Gates: Mathematics and Computer Science
 <br/>
+Jensen Huang: Electrical Engineering and Computer Science
+<br/>
 Elon Musk: Physics
 <br/>
 Larry Page (Google): Computer Engineering
