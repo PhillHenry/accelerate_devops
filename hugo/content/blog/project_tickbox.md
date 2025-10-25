@@ -16,12 +16,12 @@ Context always matters, but most successful projects share some universal traits
 #### **Hire Great Developers**
 This one’s obvious but still surprisingly rare. Why? Because hiring managers often don’t know what a good developer looks like - and good developers are expensive.
 
-The best way around this is to have your strongest developers lead the hiring process. Skilled engineers can recognize other skilled engineers. 
+The best way around this is to have your strongest developers lead the hiring process. Skilled engineers can recognise other skilled engineers. 
 And while great developers may cost more, hiring fewer but better ones reduces communication overhead - a major drag on productivity. Google has shown that smaller, stronger teams almost always move faster.
 
 #### **Eat Your Own Dog Food**
 If the people building the product aren’t the ones maintaining it, you can bet maintenance won’t be the top priority.
-It’s human nature to prioritize getting something out the door when you don’t have to live with its quirks later. 
+It’s human nature to prioritise getting something out the door when you don’t have to live with its quirks later. 
 This was a major pitfall of early-2000s outsourcing. 
 These days, staff are generally embedded in the development team if work is outsourced to a third party. 
 
@@ -39,7 +39,7 @@ Steve Jobs once said, *“It doesn’t make sense to hire smart people and then 
 If you want smart people to speak up, leadership needs to listen - regularly. 
 One-off away days won’t cut it. 
 Daily stakeholder engagement is key. 
-Agile practices like retrospectives and sprint planning formalize this, but the underlying principle is simple: communication should be continuous, not occasional.
+Agile practices like retrospectives and sprint planning formalise this, but the underlying principle is simple: communication should be continuous, not occasional.
 
 #### **Say No to Silos**
 “Scrum Master” is a role, not a job title. “DevOps” is a mindset, not a separate team.  
@@ -47,7 +47,7 @@ Agile practices like retrospectives and sprint planning formalize this, but the 
 The more you silo responsibilities, the more corner cases slip through the cracks. Keep communication lines open and responsibilities shared.
 
 #### **Maintain Regular Feedback Loops**
-Show-and-tells, burndown charts, retrospectives - these aren’t just Agile rituals; 
+Show-and-tells, burn-down charts, retrospectives - these aren’t just Agile rituals; 
 they’re tools for alignment. 
 When communication works, no one should ever be surprised by project timelines or deliverables.
 
@@ -61,7 +61,7 @@ The same goes for software teams. Give teams clear goals, then trust them to dec
 
 #### **Automate Everything**
 Continuous integration is now standard in open source, but surprisingly still spotty in some industries. 
-Automated regression tests are the best defense against code rot and unintended side effects. 
+Automated regression tests are the best defence against code rot and unintended side effects. 
 They keep your codebase resilient as it evolves.
 
 #### **Logging is an Art**
