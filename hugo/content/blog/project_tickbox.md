@@ -59,15 +59,15 @@ The same goes for software teams. Give teams clear goals, then trust them to dec
 
 ### **Process**
 
-#### **Automate Regression Testing**
+#### **Automate Everything**
 Continuous integration is now standard in open source, but surprisingly still spotty in some industries. 
 Automated regression tests are the best defense against code rot and unintended side effects. 
 They keep your codebase resilient as it evolves.
 
-#### **Log Everything**
+#### **Logging is an Art**
 Good logging is essential for effective maintenance. 
-It’s also the first thing neglected when developers don’t maintain their own code - another reason to “eat your own dog food.” 
-Comprehensive logs turn debugging from guesswork into diagnosis.
+It’s also the first thing that is neglected when developers don’t maintain their own code - another reason to “eat your own dog food.” 
+Note that even with good logging, you need people with a holistic - not siloed - view of the product as diagnosis tends to be like a jigsaw.
 
 #### **Fail Fast**
 Don’t overanalyze when a quick prototype will do. 
