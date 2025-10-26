@@ -60,9 +60,11 @@ The same goes for software teams. Give teams clear goals, then trust them to dec
 ### **Process**
 
 #### **Automate Everything**
-Continuous integration is now standard in open source, but surprisingly still spotty in some industries. 
-Automated regression tests are the best defence against code rot and unintended side effects. 
-They keep your codebase resilient as it evolves.
+...but especially automated regression tests.
+They are the best defence against code rot and unintended side effects. 
+Continuous integration is now standard in any major open source project, but surprisingly still spotty in some industries. 
+If you have mastered this, move on to continuous deployment. 
+You should be able to create and destroy whole test environments with a button click. 
 
 #### **Logging is an Art**
 Good logging is essential for effective maintenance. 
